@@ -1,0 +1,75 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+   namespace            NavigatorClient                 FileMgr.cs
+      struct          ClientEnvironment                 FileMgr.cs
+      struct          ServerEnvironment                 FileMgr.cs
+   interface                   IFileMgr                 FileMgr.cs
+       class             FileMgrFactory                 FileMgr.cs
+       class               LocalFileMgr                 FileMgr.cs
+       class                TestFileMgr                 FileMgr.cs
+
+   namespace            NavigatorClient         MainWindow.xaml.cs
+       class                 MainWindow         MainWindow.xaml.cs
+
+   namespace            NavigatorClient          CodePopUp.xaml.cs
+       class                  CodePopUp          CodePopUp.xaml.cs
+
+  TypeTable Contents:
+ ---------------------
+  ClientEnvironment
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  ServerEnvironment
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  IFileMgr
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  FileMgrFactory
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  LocalFileMgr
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  TestFileMgr
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  MainWindow
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\MainWindow.xaml.cs
+    namespace: NavigatorClient
+  CodePopUp
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\CodePopUp.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+  FileMgr.cs
+  MainWindow.xaml.cs
+    FileMgr.cs CodePopUp.xaml.cs 
+  CodePopUp.xaml.cs
+
+  building dependency graph
+ ---------------------------
+  Dependency Table:
+ -------------------
+  FileMgr.cs
+  MainWindow.xaml.cs
+    FileMgr.cs
+    CodePopUp.xaml.cs
+  CodePopUp.xaml.cs
+
+  Strong Components:
+ --------------------
+  component 0
+    FileMgr.cs 
+  component 1
+    CodePopUp.xaml.cs 
+  component 2
+    MainWindow.xaml.cs 
+

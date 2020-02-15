@@ -1,0 +1,28 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+   namespace            NavigatorClient         MainWindow.xaml.cs
+       class                 MainWindow         MainWindow.xaml.cs
+
+
+
+  TypeTable Contents:
+ ---------------------
+  MainWindow
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\MainWindow.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+
+  Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+  MainWindow.xaml.cs
+  MainWindow.xaml
+  NavigatorClient.csproj

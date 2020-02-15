@@ -1,0 +1,80 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+   namespace            NavigatorClient         MainWindow.xaml.cs
+       class                 MainWindow         MainWindow.xaml.cs
+
+
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\'.
+
+
+
+   namespace            NavigatorClient                App.xaml.cs
+       class                        App                App.xaml.cs
+
+   namespace            NavigatorClient                App.xaml.cs
+       class                        App                App.xaml.cs
+
+   namespace            NavigatorClient          CodePopUp.xaml.cs
+       class                  CodePopUp          CodePopUp.xaml.cs
+
+   namespace            NavigatorClient         MainWindow.xaml.cs
+       class                 MainWindow         MainWindow.xaml.cs
+
+  TypeTable Contents:
+ ---------------------
+  MainWindow
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\MainWindow.xaml.cs
+    namespace: NavigatorClient
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\MainWindow.xaml.cs
+    namespace: NavigatorClient
+  App
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\App.xaml.cs
+    namespace: NavigatorClient
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\App.xaml.cs
+    namespace: NavigatorClient
+  CodePopUp
+         file: C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\CodePopUp.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+
+  Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\'.
+
+  Can't open C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\ServerFiles\
+
+
+  MainWindow.xaml.cs
+    CodePopUp.xaml.cs 
+  MainWindow.xaml
+  NavigatorClient.csproj
+
+  building dependency graph
+ ---------------------------
+  Dependency Table:
+ -------------------
+  MainWindow.xaml.cs
+  MainWindow.xaml
+  NavigatorClient.csproj
+
+  Strong Components:
+ --------------------
+  component 0
+    MainWindow.xaml.cs 
+  component 1
+    MainWindow.xaml 
+  component 2
+    NavigatorClient.csproj 
+

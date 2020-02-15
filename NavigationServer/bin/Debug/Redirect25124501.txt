@@ -1,0 +1,22 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+
+   namespace            NavigatorClient          CodePopUp.xaml.cs
+       class                  CodePopUp          CodePopUp.xaml.cs
+
+  TypeTable Contents:
+ ---------------------
+  CodePopUp
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\CodePopUp.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+  CodePopUp.xaml
+  CodePopUp.xaml.cs

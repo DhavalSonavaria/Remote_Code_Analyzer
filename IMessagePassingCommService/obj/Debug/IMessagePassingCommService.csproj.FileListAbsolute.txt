@@ -1,0 +1,39 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll.config
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\project4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\project4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\project4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\project4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\project4\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache

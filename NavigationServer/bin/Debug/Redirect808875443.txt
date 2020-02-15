@@ -1,0 +1,22 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+
+   namespace            NavigatorClient                App.xaml.cs
+       class                        App                App.xaml.cs
+
+  TypeTable Contents:
+ ---------------------
+  App
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\App.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+  App.xaml
+  App.xaml.cs

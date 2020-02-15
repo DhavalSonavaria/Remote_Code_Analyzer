@@ -1,0 +1,41 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\Test1\MainWindow.xaml.cs'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\Test1\Test5\App.config'.
+
+  TypeTable Contents:
+ ---------------------
+
+  Dependency Analysis:
+ ----------------------
+  Could not find a part of the path 'C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\'.
+
+  Can't open C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\
+
+
+
+  building dependency graph
+ ---------------------------
+  Dependency Table:
+ -------------------
+
+  Strong Components:
+ --------------------
+

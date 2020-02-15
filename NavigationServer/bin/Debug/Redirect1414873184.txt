@@ -1,0 +1,114 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+
+
+   namespace            NavigatorClient                App.xaml.cs
+       class                        App                App.xaml.cs
+
+
+   namespace            NavigatorClient          CodePopUp.xaml.cs
+       class                  CodePopUp          CodePopUp.xaml.cs
+
+   namespace            NavigatorClient                 FileMgr.cs
+      struct          ClientEnvironment                 FileMgr.cs
+      struct          ServerEnvironment                 FileMgr.cs
+   interface                   IFileMgr                 FileMgr.cs
+       class             FileMgrFactory                 FileMgr.cs
+       class               LocalFileMgr                 FileMgr.cs
+       class                TestFileMgr                 FileMgr.cs
+
+
+   namespace            NavigatorClient         MainWindow.xaml.cs
+       class                 MainWindow         MainWindow.xaml.cs
+
+
+  TypeTable Contents:
+ ---------------------
+  App
+         file: C:\project4\ServerFiles\App.xaml.cs
+    namespace: NavigatorClient
+  CodePopUp
+         file: C:\project4\ServerFiles\CodePopUp.xaml.cs
+    namespace: NavigatorClient
+  ClientEnvironment
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  ServerEnvironment
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  IFileMgr
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  FileMgrFactory
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  LocalFileMgr
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  TestFileMgr
+         file: C:\project4\ServerFiles\FileMgr.cs
+    namespace: NavigatorClient
+  MainWindow
+         file: C:\project4\ServerFiles\MainWindow.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+
+  Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+  App.config
+  App.xaml
+  App.xaml.cs
+  CodePopUp.xaml
+  CodePopUp.xaml.cs
+  FileMgr.cs
+  MainWindow.xaml
+  MainWindow.xaml.cs
+    FileMgr.cs CodePopUp.xaml.cs 
+  NavigatorClient.csproj
+
+  building dependency graph
+ ---------------------------
+  Dependency Table:
+ -------------------
+  App.config
+  App.xaml
+  App.xaml.cs
+  CodePopUp.xaml
+  CodePopUp.xaml.cs
+  FileMgr.cs
+  MainWindow.xaml
+  MainWindow.xaml.cs
+    FileMgr.cs
+    CodePopUp.xaml.cs
+  NavigatorClient.csproj
+
+  Strong Components:
+ --------------------
+  component 0
+    App.config 
+  component 1
+    App.xaml 
+  component 2
+    App.xaml.cs 
+  component 3
+    CodePopUp.xaml 
+  component 4
+    CodePopUp.xaml.cs 
+  component 5
+    FileMgr.cs 
+  component 6
+    MainWindow.xaml 
+  component 7
+    MainWindow.xaml.cs 
+  component 8
+    NavigatorClient.csproj 
+

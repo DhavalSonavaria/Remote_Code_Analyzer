@@ -1,0 +1,168 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\New folder\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\project4\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\project4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\project4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\project4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\project4\NavigatorClient\bin\Debug\Environment.dll
+C:\project4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\project4\NavigatorClient\bin\Debug\IService.dll
+C:\project4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\project4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\project4\NavigatorClient\bin\Debug\Environment.pdb
+C:\project4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\project4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\project4\NavigatorClient\bin\Debug\IService.pdb
+C:\project4\NavigatorClient\bin\Debug\IService.dll.config
+C:\project4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\project4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\project4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\project4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\project4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\project4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\project4\NavigatorClient\obj\Debug\App.g.cs
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\project4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\project4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\project4\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\NavigatorClient\obj\Debug\NavigatorClient.pdb

@@ -1,0 +1,47 @@
+
+  Dependency Analysis
+ =====================
+
+  Type Analysis
+ ---------------
+    category                       name                       file
+    --------                       ----                       ----
+
+   namespace            NavigatorClient          CodePopUp.xaml.cs
+       class                  CodePopUp          CodePopUp.xaml.cs
+
+   namespace            NavigatorClient                App.xaml.cs
+       class                        App                App.xaml.cs
+
+  TypeTable Contents:
+ ---------------------
+  CodePopUp
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\CodePopUp.xaml.cs
+    namespace: NavigatorClient
+  App
+         file: C:\Users\Dhaval Sonavaria\Desktop\New folder\ServerFiles\App.xaml.cs
+    namespace: NavigatorClient
+
+  Dependency Analysis:
+ ----------------------
+  CodePopUp.xaml
+  CodePopUp.xaml.cs
+  App.xaml.cs
+
+  building dependency graph
+ ---------------------------
+  Dependency Table:
+ -------------------
+  CodePopUp.xaml
+  CodePopUp.xaml.cs
+  App.xaml.cs
+
+  Strong Components:
+ --------------------
+  component 0
+    CodePopUp.xaml 
+  component 1
+    CodePopUp.xaml.cs 
+  component 2
+    App.xaml.cs 
+

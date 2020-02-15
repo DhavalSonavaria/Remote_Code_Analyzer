@@ -1,0 +1,9 @@
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\bin\Debug\netstandard2.0\ConvertToString.deps.json
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\bin\Debug\netstandard2.0\ConvertToString.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\bin\Debug\netstandard2.0\ConvertToString.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.AssemblyInfoInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.AssemblyInfo.cs
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\ClassLibrary1\obj\Debug\netstandard2.0\ConvertToString.pdb

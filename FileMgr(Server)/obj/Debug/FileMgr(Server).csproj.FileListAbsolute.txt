@@ -1,0 +1,24 @@
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\bin\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\bin\Debug\Navigate.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\obj\Debug\FileMgr(Server).csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\obj\Debug\FileMgr(Server).csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\obj\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\FileMgr(Server)\obj\Debug\Navigate.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\bin\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\bin\Debug\Navigate.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\obj\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\FileMgr(Server)\obj\Debug\Navigate.pdb
+C:\project4\FileMgr(Server)\bin\Debug\Navigate.dll
+C:\project4\FileMgr(Server)\bin\Debug\Navigate.pdb
+C:\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csproj.CoreCompileInputs.cache
+C:\project4\FileMgr(Server)\obj\Debug\Navigate.dll
+C:\project4\FileMgr(Server)\obj\Debug\Navigate.pdb
+C:\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\bin\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\bin\Debug\Navigate.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\obj\Debug\Navigate.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\obj\Debug\Navigate.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\FileMgr(Server)\obj\Debug\FileMgr(Server).csprojAssemblyReference.cache

@@ -1,0 +1,44 @@
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\Toker.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\Toker.pdb
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\New folder\SemiExp\obj\Debug\SemiExp.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\Toker.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\Toker.pdb
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\project4\SemiExp\obj\Debug\SemiExp.pdb
+C:\project4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\project4\SemiExp\bin\Debug\SemiExp.dll
+C:\project4\SemiExp\bin\Debug\SemiExp.pdb
+C:\project4\SemiExp\bin\Debug\Toker.dll
+C:\project4\SemiExp\bin\Debug\Toker.pdb
+C:\project4\SemiExp\bin\Debug\Toker.dll.config
+C:\project4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\project4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\project4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\project4\SemiExp\obj\Debug\SemiExp.dll
+C:\project4\SemiExp\obj\Debug\SemiExp.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\Toker.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\Toker.pdb
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\Dhaval Sonavaria\Desktop\sem1\project4\project4\SemiExp\obj\Debug\SemiExp.pdb

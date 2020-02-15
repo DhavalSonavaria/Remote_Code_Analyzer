@@ -1,0 +1,3 @@
+This is a line khbghdhavalyuyuvof text
+Everything written to Console.Write() or
+Console.WriteLine() will be written to a file
